@@ -1,1 +1,1 @@
-**StoryMap.CP** Jersey City Summary
+**StoryMap.CP** Spatial Analysis Assignment 
